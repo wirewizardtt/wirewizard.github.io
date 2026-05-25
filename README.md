@@ -101,8 +101,8 @@ export default function WireWizardWebsite() {
       <section className="bg-blue-900 text-white py-16 px-6 text-center">
         <h2 className="text-4xl font-bold mb-6">Contact WireWizard</h2>
         <p className="text-lg mb-3">📍 Trinidad & Tobago</p>
-        <p className="text-lg mb-3">📞 +1 (868) 000-0000</p>
-        <p className="text-lg mb-8">✉ info@wirewizardtt.com</p>
+        <p className="text-lg mb-3">📞 +1 (868) 290-5953</p>
+        <p className="text-lg mb-8">✉ lon_daly@hotmail.com.com</p>
 
         <button className="bg-yellow-400 text-black px-8 py-3 rounded-2xl font-bold shadow-lg hover:bg-yellow-300 transition">
           Request a Quote
